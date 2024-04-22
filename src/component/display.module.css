@@ -1,0 +1,9 @@
+.display {
+    max-width: 95%;
+    height: 60px;
+    padding: 15px;
+    margin-top: 5px;
+    font-weight: 400;
+    font-size: x-large;
+    background-color: #a7af7c;
+}
